@@ -1,7 +1,7 @@
 # Face-Detection-Front-face
 Front face detection using python, open cv haarcasacde
 
-<img src="[./img/blockchain1.png](https://imgur.com/a/UpTEdcE)" width="500" alt="facial detection">
+<img src="[https://imgur.com/a/UpTEdcE" width="500" alt="facial detection">
 
 ## To run the code:
 
